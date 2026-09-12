@@ -1,0 +1,214 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Tint&display=swap');
+
+body {
+
+    background-color: #101820;
+
+    margin: 0;
+
+    color: #eeeeee;
+
+    font-family: Arial, sans-serif;
+
+}
+header {
+
+    background-color: #050505;
+
+    padding: 40px;
+
+    border-bottom: 5px solid #e10600;
+
+}
+h1 {
+
+    font-family: "Bungee Tint", sans-serif;
+
+    font-weight: 400;
+
+    font-style: normal;
+
+    font-size: 5em;
+
+    text-align: center;
+
+    margin: 0;
+
+}
+nav {
+
+    background-color: #1c1c1c;
+
+    text-align: center;
+
+    padding: 20px;
+
+}
+nav a {
+
+    color: #ffffff;
+
+    text-decoration: none;
+
+    font-size: 22px;
+
+    margin: 0 30px;
+
+    font-weight: bold;
+
+}
+nav a:hover {
+
+    color: #e10600;
+
+}
+main {
+
+    width: 85%;
+
+    margin: auto;
+
+}
+h2 {
+
+    font-family: "Bungee Tint", sans-serif;
+
+    font-weight: 400;
+
+    font-style: normal;
+
+    color: #e10600;
+
+    font-size: 3em;
+
+    text-align: center;
+
+}
+.contenido {
+
+    display: flex;
+
+    justify-content: space-between;
+
+    align-items: center;
+
+    gap: 60px;
+
+    margin-top: 70px;
+
+    margin-bottom: 100px;
+
+}
+.inverso {
+
+    flex-direction: row;
+
+}
+.texto {
+
+    width: 60%;
+
+}
+.texto p {
+
+    color: #eeeeee;
+
+    font-size: 1.5em;
+
+    line-height: 1.7;
+
+    text-align: justify;
+
+}
+.contenido img {
+
+    width: 400px;
+
+    height: auto;
+
+    border-radius: 15px;
+
+}
+.justificacion {
+
+    margin-top: 50px;
+
+    margin-bottom: 80px;
+
+    text-align: center;
+
+}
+.justificacion p {
+
+    width: 80%;
+
+    margin: auto;
+
+    font-size: 1.4em;
+
+    line-height: 1.7;
+
+    text-align: justify;
+
+}
+.enlaces {
+
+    text-align: center;
+
+    margin-top: 50px;
+
+    margin-bottom: 60px;
+
+}
+.enlaces a {
+
+    display: block;
+
+    color: #ffffff;
+
+    font-size: 1.4em;
+
+    margin: 25px;
+
+    font-weight: bold;
+
+}
+.enlaces a:hover {
+
+    color: #e10600;
+
+}
+.imagen-abajo {
+
+    text-align: center;
+
+    margin-top: 40px;
+
+    margin-bottom: 70px;
+
+}
+.imagen-abajo img {
+
+    width: 500px;
+
+    height: auto;
+
+    border-radius: 15px;
+
+}
+footer {
+
+    background-color: #050505;
+
+    color: #ffffff;
+
+    text-align: center;
+
+    padding: 25px;
+
+}
+footer p {
+
+    font-size: 18px;
+
+}
